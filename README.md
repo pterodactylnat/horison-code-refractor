@@ -16,9 +16,13 @@ I learned how to tag images with accessibility texts and how to describe those i
 
 ## Usage 
 
-[deployed git hub site](https://github.com/pterodactylnat/horison-code-refractor.git)
+[deployed git hub site](https://pterodactylnat.github.io/horison-code-refractor/)
 
+![deployed top portion screen shots](assets\images\horiseon-top-screen-shot.jpg)
 
+![deployed middle portion screen shots](assets\images\horiseon-middle-screen-shot.jpg)
+
+![deployed bottom portion screen shots](assets\images\horiseon-bottom-screen-shot.jpg)
 
 ## license 
 
